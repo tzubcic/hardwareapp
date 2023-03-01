@@ -5,8 +5,10 @@ Spring Boot web application
 
 - Emmbeded H2 database used
 
+- the client side https://github.com/tzubcic/hardwareapp-client ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 
 
-![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
 
-The demo of the application can be found on the following link https://youtu.be/Agr0XqPcdAQ
+
+
+The demo of the application can be found on the following link https://youtu.be/Agr0XqPcdAQ ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
